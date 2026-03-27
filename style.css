@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+#map {
+height: 400px;
+width: 100%;
+border: 1px solid #ccc;
+border-radius: 8px;
+}
